@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to HelpToSave
 
-You can use the [editor on GitHub](https://github.com/robert-selim/helptosave/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are Mischa and Selim, activists supporting small grassroots initiatives all around the world and we would like to collaborate with you!. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We support small initiatives with quick and "bureaucratically uncomplicated" help.
 
-### Markdown
+Please consider supporting small projects instead of large NGOs which are already getting a lot of help. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have personal contacts with these initiatives, they are friends or friends of friends. These initiatives need money to maintain their projects, buy food and medicine, for cleaning and organizational expenses, etc. The money that we provide is not used for the staff, and they can provide bills, photos and videos to show where the money goes and to show that the initiatives are active. We of course also provide proof that the money was transferred.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## HelpToSave Planet Earth
+Supporting new small climate change initiatives so they can have a greater impact and bring new ideas.
 
-- Bulleted
-- List
+## HelpToSave Human Rights
+We find initiatives who are fighting for human rights and we help them as much as we can.
 
-1. Numbered
-2. List
+## HelpToSave Animals
+We support self-organized animal shelters, mainly in Eastern Europe and Western Asia. 
 
-**Bold** and _Italic_ and `Code` text
+## HelpToSave Food
+We collect food using different platforms like foodsharing, sirplus, tafel, etc. to give it to people who need it. We also organize large dinner events to cook with the food we collected.
 
-[Link](url) and ![Image](src)
-```
+## HelpToSave Yourself
+We are constantly on the look for initiatives who help disadvantaged people to deal with issues in their lives, ranging from social, mental, bureaucratic, health, etc. issues
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robert-selim/helptosave/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+For more information, send us a quick email: helptosav AT outlook DOT COM
